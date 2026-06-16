@@ -7,3 +7,5 @@ How to run
 
 Controls
 - Click a cell to place X or O. Click `Restart` to reset the board.
+
+- created by using ai and yaswanth
